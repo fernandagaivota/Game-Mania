@@ -97,3 +97,21 @@ margin-left: 90%;
 text-align: right;
 
 }
+
+.conteudo {
+display: flex;
+justify-content: center;
+margin-top: 20%;
+align-items: center;
+}
+
+.conteudo-form {
+display: flex;
+justify-content: center;
+margin-bottom: 40px;
+margin-right: 1000px;
+background-color: grey;
+}
+
+
+
